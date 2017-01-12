@@ -1,0 +1,39 @@
+BODY {
+  background: LightGrey;
+  color: Maroon;
+  font-family: Verdana;
+  font-size: 12pt
+}
+
+H1 {
+  font-family: "Comic Sans MS";
+  font-size: 24pt;
+  font-weight: bold
+}
+
+P {
+  font-size: 11pt
+}
+
+.caption {
+  color: Maroon ;
+  font-size:  10pt
+}
+
+A:link {
+  color: Black;
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none
+}
+
+A:visited {
+  color: Black;
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none
+}
+
+.address {
+  font-size: 8pt
+}
